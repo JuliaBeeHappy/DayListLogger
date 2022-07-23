@@ -8,6 +8,7 @@ public class Main {
         ListOfDays listOfDays = new ListOfDays();
         String result = listOfDays.getDay(22565458);
         System.out.println(result);
+        System.out.println(result);
 
 
     }
